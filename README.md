@@ -50,7 +50,7 @@ An interactive Excel dashboard was built to visualize key metrics and support da
 ## Conclusion
 The analysis highlights strong growth trends, key revenue-driving categories, and regional performance differences, while also identifying elivery ineficiencies that may impact customer satisfaction.
 ## Files Included
-- E-commercer Sales Analysis.xlsx
+- E-commerce Sales Analysis(Pivot,Dashboard).xlsx
 - Screenshots of Dashboard
 ## Future Improvements
 - Build Power BI interactive dashboard
