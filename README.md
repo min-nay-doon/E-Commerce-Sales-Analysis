@@ -1,5 +1,5 @@
-# EDA-Project
-E-Commerce Sales Analysis By Using Excel 
+# E-Commerce Sales Analysis
+EDA Project
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Brazilian E-Commerce Public Dataset to uncover key business insights related to sales performance,customer behavior, product trends, and delivery efficiency.
 An interactive Excel dashboard was built to visualize key metrics and support data-driven decision-making.
